@@ -1,10 +1,12 @@
 {
     "workbench.colorTheme": "Material Theme Ocean",
     "editor.formatOnSave": true,
-    "editor.fontSize": 22,
     "explorer.openEditors.visible": 0,
     "editor.minimap.enabled": false,
-    "editor.lineHeight": 40,
-    "editor.fontFamily": "fira code",
-    "editor.fontLigatures": true
+    "editor.fontFamily": "fira code, 'source code pro', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 22,
+    "editor.lineHeight": 40
 }
