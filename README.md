@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.colorTheme": "Mayukai Mirage",
     "editor.formatOnSave": true,
     "explorer.openEditors.visible": 0,
     "editor.minimap.enabled": false,
@@ -8,5 +8,7 @@
     "editor.wordWrap": "on",
     "workbench.sideBar.location": "right",
     "editor.fontSize": 22,
-    "editor.lineHeight": 40
+    "editor.lineHeight": 40,
+    "workbench.iconTheme": "ayu",
+    "editor.cursorBlinking": "expand"
 }
